@@ -10,7 +10,7 @@ Welcome to the FusionAuth Code Challenge! This challenge will help you familiari
 ### Action Item 1: Quickstart and Local Setup
 
 **FusionAuth Quickstart**: 
-   - Go through a FusionAuth quickstart in the language of your choice (choose from one of the web options, not the 5-minute/mobile/SPA/API quickstarts).
+   - Go through a [FusionAuth quickstart](https://fusionauth.io/docs/quickstarts/) in the language of your choice (choose from one of the **web application** options, not the 5-minute/mobile/SPA/API quickstarts).
    - Set up a local FusionAuth instance running on port 9011 with a basic application.
 
 1. **Enhance the Application**:
@@ -52,22 +52,23 @@ _Hint: Use FusionAuth’s role management and authorization features._
   - Brief overview of the application being integrated with FusionAuth.
 
 #### 4. Live Demo (6 minutes)
-- **Slide 5:** Setting Up FusionAuth
+- **Step 1:** Setting Up FusionAuth
   - Walkthrough of the installation process.
   - Configuration of the initial settings.
-- **Slide 6:** Creating Users and Roles
+- **Step 2:** Creating Users and Roles
   - Demonstration of how to create users and assign roles.
-- **Slide 7:** Integrating FusionAuth with an Application
+- **Step 3:** Integrating FusionAuth with an Application
   - Show how to integrate FusionAuth with a sample application (e.g., a simple web app).
-- **Slide 8:** Authentication and Authorization
+- **Step 4:** Authentication and Authorization
   - Demonstrate the login process and role-based access control.
 
 #### 5. Q&A and Conclusion (3 minutes)
-- **Slide 9:** Questions and Answers
+- Questions and Answers
   - Open the floor for any questions.
-- **Slide 10:** Conclusion
+- Conclusion
   - Recap of the key points.
   - Provide additional resources and contact information.
+
 
 ### Scorecard
 
