@@ -118,6 +118,6 @@ If you prefer a different software to demo, consider the following:
 
 ---
 
-Good luck with your code challenge! If you have any questions or need further assistance, feel free to Holly or Kahlil.
+Good luck with your code challenge! If you have any questions or need further assistance, feel free to contact Holly or Kahlil.
 
 Happy coding! 🚀
