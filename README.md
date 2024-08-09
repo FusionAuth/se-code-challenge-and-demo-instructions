@@ -20,7 +20,7 @@ _Hint: Use FusionAuth’s custom data fields and ensure proper validation and st
 
 2. **Implement 2Factor Authentication**:
    - Implement Two-Factor Authentication using FusionAuth. Users should be able to enable or disable 2FA from their profile settings, and if enabled, they should be prompted for a second authentication factor on login.
-_Hint: Explore FusionAuth’s multi-factor authentication features and integrate with an OTP (One-Time Password) provider._
+_Hint: Explore FusionAuth’s multi-factor authentication features and integrate with an TOTP (Time Based One-Time Password) provider._
 
 3. **Implement a Role-Based Access Control system.**
   - Create roles such as “Admin”, “Editor”, and “Viewer”, and restrict access to certain parts of your application based on the user’s role.
