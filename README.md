@@ -5,7 +5,7 @@
 
 Welcome to the FusionAuth Code Challenge! This challenge will help you familiarize yourself with FusionAuth by setting up a local instance and enhancing a basic application. Follow the instructions below to get started.
 
-## Challenge Overview
+## Code Challenge Overview - Part One
 
 ### Action Item 1: Quickstart and Local Setup
 
@@ -26,7 +26,7 @@ _Hint: Explore FusionAuth’s multi-factor authentication features and integrate
   - Create roles such as “Admin”, “Editor”, and “Viewer”, and restrict access to certain parts of your application based on the user’s role.
 _Hint: Use FusionAuth’s role management and authorization features._
 
-### Technical Demo Presentation
+### Technical Demo Presentation - Part Two
 
 **Title:** Introduction to FusionAuth: Simplifying User Authentication
 
