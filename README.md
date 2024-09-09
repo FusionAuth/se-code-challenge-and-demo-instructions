@@ -3,7 +3,7 @@
 
 # FusionAuth Code Challenge
 
-Welcome to the FusionAuth Code Challenge! This challenge will help you familiarize yourself with FusionAuth by setting up a local instance and enhancing a basic application. Follow the instructions below to get started. Please schedule time with Kahlil and Holly no later than 10 business days after your technical interview [using this link](https://meetings.hubspot.com/holly-girouard/code-review-and-demo). 
+Welcome to the FusionAuth Code Challenge! This challenge will help you familiarize yourself with FusionAuth by setting up a local instance and enhancing a basic application. Follow the instructions below to get started. Please schedule time with Kahlil and Holly no later than 6 business days after your technical interview [using this link](https://meetings.hubspot.com/holly-girouard/code-review-and-demo). 
 
 ## Code Challenge Overview - Part One
 
