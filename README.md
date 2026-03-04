@@ -7,7 +7,7 @@
 
 Welcome to the FusionAuth SE Code Challenge! This process is designed to help us see how you think, build, and communicate, not just whether you can follow a tutorial.
 
-You'll complete a coding challenge on your own, then join a 1-hour technical interview structured in three parts. Someone from our People team will reach out to schedule within 6 business days of your technical interview.
+You'll have 7 days to complete the coding challenge. Someone from our People team will reach out to schedule your 1-hour technical interview before that deadline.
 
 ---
 
